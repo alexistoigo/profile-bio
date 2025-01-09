@@ -1,16 +1,30 @@
 .language-switcher {
-    display: flex;
-    gap: 8px;
-  }
-  
-  .language-switcher button {
-    background: transparent;
-    border: none;
-    cursor: pointer;
-  }
-  
-  .language-switcher img {
-    width: 24px;
-    height: 24px;
-  }
-  
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50px;
+  padding: 0.3rem;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.15);
+  background-color: var(--switcher-bg);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.lang-btn {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 50%;
+  transition: background-color 0.3s, box-shadow 0.3s;
+  outline: none;
+}
+
+.lang-btn img {
+  width: 24px;
+  height: 24px;
+}
+
+.lang-btn.active {
+  background-color: var(--active-bg);
+  box-shadow: inset 0 0 4px rgba(0, 0, 0, 0.2);
+}
