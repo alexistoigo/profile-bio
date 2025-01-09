@@ -1,0 +1,16 @@
+.language-switcher {
+    display: flex;
+    gap: 8px;
+  }
+  
+  .language-switcher button {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .language-switcher img {
+    width: 24px;
+    height: 24px;
+  }
+  

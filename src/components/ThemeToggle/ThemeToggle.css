@@ -1,0 +1,11 @@
+.theme-toggle {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .theme-toggle img {
+    width: 24px;
+    height: 24px;
+  }
+  
