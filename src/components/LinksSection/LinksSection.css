@@ -1,24 +1,31 @@
 .links {
-    padding: 2rem;
-    max-width: 800px;
-    margin: 0 auto;
-  }
-  
-  .links ul {
-    list-style: none;
-    padding: 0;
-  }
-  
-  .links li {
-    margin: 0.5rem 0;
-  }
-  
-  .links a {
-    color: var(--link-color);
-    text-decoration: none;
-  }
-  
-  .links a:hover {
-    text-decoration: underline;
-  }
-  
+  padding: 2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin: 0.5rem 0;
+}
+
+.links a {
+  color: var(--link-color);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.link-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
