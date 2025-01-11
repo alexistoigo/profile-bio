@@ -11,13 +11,13 @@
     "title": "Experiências Profissionais",
     "experiences": [
       {
-        "company": "Compass.uol",
+        "company": "Cyberlog Automação e Logística",
         "role": "Desenvolvedor Backend",
-        "duration": "2020 - 2022",
-        "projects": ["Open eCommerce", "Lojas Renner"],
+        "duration": "2022 - atual",
+        "projects": ["Cyberlog WMS"],
         "activities": [
-          "Projeto de E-commerce Open Source: Colaborei no desenvolvimento de uma solução de e-commerce utilizando a plataforma Magento. Fui responsável pela criação de uma rotina de integração de catálogo e microsserviços, empregando Java Spring Boot e RabbitMQ para otimizar a manutenção e atualização do catálogo de produtos.",
-          "Projeto Lojas Renner: Atuei em um dos maiores projetos da empresa, integrando a squad de Checkout, Pós-Vendas, Atendimento e Logística, utilizando a plataforma Oracle ATG. Contribuí para a criação de novas funcionalidades e na manutenção contínua."
+          "Desenvolvimento e manutenção de um sistema de Gerenciamento de Armazém (WMS). Criação de soluções de back-end utilizando a stack (Java EE, JSF, Primefaces), bem como a integração com os bancos de dados PostgreSQL e Oracle, juntamente com a implementação de PL-SQL.",
+          "Desenvolvimento para Android, utilizando Java."
         ]
       },
       {
@@ -30,13 +30,13 @@
         ]
       },
       {
-        "company": "Cyberlog Automação e Logística",
+        "company": "Compass.uol",
         "role": "Desenvolvedor Backend",
-        "duration": "2022 - atual",
-        "projects": ["Cyberlog WMS"],
+        "duration": "2020 - 2022",
+        "projects": ["Open eCommerce", "Lojas Renner"],
         "activities": [
-          "Desenvolvimento e manutenção de um sistema de Gerenciamento de Armazém (WMS). Criação de soluções de back-end utilizando a stack (Java EE, JSF, Primefaces), bem como a integração com os bancos de dados PostgreSQL e Oracle, juntamente com a implementação de PL-SQL.",
-          "Desenvolvimento para Android, utilizando Java."
+          "Projeto de E-commerce Open Source: Colaborei no desenvolvimento de uma solução de e-commerce utilizando a plataforma Magento. Fui responsável pela criação de uma rotina de integração de catálogo e microsserviços, empregando Java Spring Boot e RabbitMQ para otimizar a manutenção e atualização do catálogo de produtos.",
+          "Projeto Lojas Renner: Atuei em um dos maiores projetos da empresa, integrando a squad de Checkout, Pós-Vendas, Atendimento e Logística, utilizando a plataforma Oracle ATG. Contribuí para a criação de novas funcionalidades e na manutenção contínua."
         ]
       }
     ]
@@ -45,18 +45,18 @@
     "title": "Formação Acadêmica",
     "education": [
       {
-        "type": "Bacharelado",
-        "course": "Bacharelado em Ciência da Computação - Universidade Regional Integrada do Alto Uruguai e das Missões - URI",
-        "activities": [
-          "Equipe Maratona de Programação SBC"
-        ]
-      },
-      {
         "type": "Mestrado",
         "course": "Mestrado em Computação Aplicada - Universidade de Passo Fundo - UPF",
         "activities": [
           "Projeto que aprimora a aplicação do Algoritmo Genético para resolver o problema CBCTT (Curriculum-Based Course Timetabling).",
           "Agregar uma nova funcionalidade ao algoritmo, permitindo a alocação otimizada de salas, laboratórios e espaços físicos da universidade. O objetivo principal do projeto é otimizar a utilização de espaços no campus, reduzindo o número de prédios necessários e minimizando o deslocamento dos estudantes."
+        ]
+      },
+      {
+        "type": "Bacharelado",
+        "course": "Bacharelado em Ciência da Computação - Universidade Regional Integrada do Alto Uruguai e das Missões - URI",
+        "activities": [
+          "Equipe Maratona de Programação SBC"
         ]
       }
     ]

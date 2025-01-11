@@ -11,13 +11,13 @@
     "title": "Professional Experiences",
     "experiences": [
       {
-        "company": "Compass.uol",
+        "company": "Cyberlog",
         "role": "Backend Developer",
-        "duration": "2020 - 2022",
-        "projects": ["Open eCommerce", "Lojas Renner"],
+        "duration": "2022 - current",
+        "projects": ["Cyberlog WMS"],
         "activities": [
-          "Open Source E-commerce Project: I collaborated in the development of an e-commerce solution using the Magento platform. I was responsible for creating a catalog and microservices integration routine, using Java Spring Boot and RabbitMQ to optimize the maintenance and updating of the product catalog.",
-          "Renner Stores Project: I worked on one of the company's largest projects, integrating the Checkout, After-Sales, Service and Logistics squad, using the Oracle ATG platform. I contributed to the creation of new features and ongoing maintenance."
+          "Development and maintenance of a Warehouse Management System (WMS). Creation of back-end solutions using the stack (Java EE, JSF, Primefaces), as well as integration with PostgreSQL and Oracle databases, along with the implementation of PL-SQL.",
+          "Development for Android, using Java."
         ]
       },
       {
@@ -30,13 +30,13 @@
         ]
       },
       {
-        "company": "Cyberlog",
+        "company": "Compass.uol",
         "role": "Backend Developer",
-        "duration": "2022 - current",
-        "projects": ["Cyberlog WMS"],
+        "duration": "2020 - 2022",
+        "projects": ["Open eCommerce", "Lojas Renner"],
         "activities": [
-          "Development and maintenance of a Warehouse Management System (WMS). Creation of back-end solutions using the stack (Java EE, JSF, Primefaces), as well as integration with PostgreSQL and Oracle databases, along with the implementation of PL-SQL.",
-          "Development for Android, using Java."
+          "Open Source E-commerce Project: I collaborated in the development of an e-commerce solution using the Magento platform. I was responsible for creating a catalog and microservices integration routine, using Java Spring Boot and RabbitMQ to optimize the maintenance and updating of the product catalog.",
+          "Renner Stores Project: I worked on one of the company's largest projects, integrating the Checkout, After-Sales, Service and Logistics squad, using the Oracle ATG platform. I contributed to the creation of new features and ongoing maintenance."
         ]
       }
     ]
@@ -45,18 +45,18 @@
     "title": "Academic Background",
     "education": [
       {
-        "type": "Barachelors Degree",
-        "course": "Computer Science - University Regional Integrada do Alto Uruguai e das Missões - URI",
-        "activities": [
-          "SBC/ICPC Programming Marathon Team"
-        ]
-      },
-      {
         "type": "Master Student",
         "course": "Applied Computing - University of Passo Fundo - UPF",
         "activities": [
           "Project that improves the application of the Genetic Algorithm to solve the CBCTT (Curriculum-Based Course Timetabling) problem.",
           "Adding a new functionality to the algorithm, allowing for the optimized allocation of classrooms, laboratories and physical spaces at the university. The main objective of the project is to optimize the use of spaces on campus, reducing the number of buildings needed and minimizing student travel."        ]
+      },
+      {
+        "type": "Barachelors Degree",
+        "course": "Computer Science - University Regional Integrada do Alto Uruguai e das Missões - URI",
+        "activities": [
+          "SBC/ICPC Programming Marathon Team"
+        ]
       }
     ]
   },

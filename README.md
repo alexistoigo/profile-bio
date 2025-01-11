@@ -41,7 +41,7 @@ cd profile-bio
 3. Instale as dependências:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 ## Como Usar 
