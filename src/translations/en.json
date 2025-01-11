@@ -11,7 +11,7 @@
     "title": "Professional Experiences",
     "experiences": [
       {
-        "company": "Cyberlog",
+        "company": "Cyberlog Automation & Logistics",
         "role": "Backend Developer",
         "duration": "2022 - current",
         "projects": ["Cyberlog WMS"],
@@ -30,7 +30,7 @@
         ]
       },
       {
-        "company": "Compass.uol",
+        "company": "",
         "role": "Backend Developer",
         "duration": "2020 - 2022",
         "projects": ["Open eCommerce", "Lojas Renner"],
